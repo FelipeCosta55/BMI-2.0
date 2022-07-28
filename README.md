@@ -4,3 +4,5 @@ Write a program that interprets the Body Mass Index (BMI) based on a user's weig
 It should tell them the interpretation of their BMI based on the BMI value.
 
 Used Logical operators together with If statements to print different messages deppending on different BMI's.
+
+Code is in main.py, the other files can be ignored, they are just for IDE's console configuration.
